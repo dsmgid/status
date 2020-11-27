@@ -5,15 +5,15 @@
     "slug": "dsmg-home",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1623
+    "time": 1615
   },
   {
     "name": "DSMG Cloud Home",
     "url": "https://dsmg.cloud",
     "slug": "dsmg-cloud-home",
     "status": "up",
-    "uptime": "2.57%",
-    "time": 613
+    "uptime": "25.58%",
+    "time": 1523
   },
   {
     "name": "DSMG Cloud Premium Panel",
@@ -21,7 +21,7 @@
     "slug": "dsmg-cloud-premium-panel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2359
+    "time": 2368
   },
   {
     "name": "DSMG Cloud Free Panel",
@@ -29,14 +29,6 @@
     "slug": "dsmg-cloud-free-panel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1005
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 0
+    "time": 1080
   }
 ]
