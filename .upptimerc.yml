@@ -12,8 +12,6 @@ sites:
     url: https://member.dsmg.cloud
   - name: DSMG Cloud Free Panel
     url: https://member.dsmg.my.id
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
