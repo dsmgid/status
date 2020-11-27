@@ -7,7 +7,7 @@ sites:
   - name: DSMG Home
     url: https://dsgroupmedia.com
   - name: DSMG Cloud Home
-    url: https://cloud.dsgroupmedia.com
+    url: https://dsmg.cloud
   - name: DSMG Cloud Premium Panel
     url: https://member.dsmg.cloud
   - name: DSMG Cloud Free Panel
