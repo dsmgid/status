@@ -12,7 +12,7 @@
     "url": "https://dsmg.cloud",
     "slug": "dsmg-cloud-home",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.59%",
     "time": 2111
   },
   {
@@ -27,8 +27,8 @@
     "name": "DSMG Cloud Free Panel",
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
-    "status": "up",
-    "uptime": "97.24%",
-    "time": 724
+    "status": "down",
+    "uptime": "97.84%",
+    "time": 678
   }
 ]
