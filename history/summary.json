@@ -3,17 +3,17 @@
     "name": "DSMG Home",
     "url": "https://dsgroupmedia.com",
     "slug": "dsmg-home",
-    "status": "up",
-    "uptime": "98.65%",
-    "time": 1134
+    "status": "down",
+    "uptime": "98.71%",
+    "time": 1127
   },
   {
     "name": "DSMG Cloud Home",
     "url": "https://dsmg.cloud",
     "slug": "dsmg-cloud-home",
     "status": "up",
-    "uptime": "99.77%",
-    "time": 2075
+    "uptime": "99.78%",
+    "time": 2026
   },
   {
     "name": "DSMG Cloud Premium Panel",
@@ -21,14 +21,14 @@
     "slug": "dsmg-cloud-premium-panel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2349
+    "time": 2347
   },
   {
     "name": "DSMG Cloud Free Panel",
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
     "status": "up",
-    "uptime": "98.45%",
-    "time": 681
+    "uptime": "98.53%",
+    "time": 747
   }
 ]
