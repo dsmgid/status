@@ -3,16 +3,16 @@
     "name": "DSMG Home",
     "url": "https://dsgroupmedia.com",
     "slug": "dsmg-home",
-    "status": "up",
-    "uptime": "98.64%",
-    "time": 1221
+    "status": "down",
+    "uptime": "98.78%",
+    "time": 1149
   },
   {
     "name": "DSMG Cloud Home",
     "url": "https://dsmg.cloud",
     "slug": "dsmg-cloud-home",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.75%",
     "time": 2075
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.35%",
     "time": 681
   }
 ]
