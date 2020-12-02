@@ -4,7 +4,7 @@
     "url": "https://dsgroupmedia.com",
     "slug": "dsmg-home",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "time": 1110
   },
   {
@@ -27,8 +27,8 @@
     "name": "DSMG Cloud Free Panel",
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
-    "status": "down",
-    "uptime": "98.71%",
-    "time": 797
+    "status": "up",
+    "uptime": "98.64%",
+    "time": 798
   }
 ]
