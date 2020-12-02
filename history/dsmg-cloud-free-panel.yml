@@ -1,7 +1,7 @@
 url: https://member.dsmg.my.id  
-status: up
-code: 200
-responseTime: 2707
-lastUpdated: 2020-12-01T23:01:54.536Z
+status: down
+code: 500
+responseTime: 751
+lastUpdated: 2020-12-02T11:21:58.891Z
 startTime: Fri Nov 27 2020 14:05:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
