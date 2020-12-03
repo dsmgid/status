@@ -4,8 +4,16 @@
     "url": "https://dsgroupmedia.com",
     "slug": "dsmg-home",
     "status": "up",
-    "uptime": "97.66%",
-    "time": 1110
+    "uptime": "97.69%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 1837,
+    "timeDay": 2219,
+    "timeWeek": 1837,
+    "timeMonth": 1837,
+    "timeYear": 1837
   },
   {
     "name": "DSMG Cloud Home",
@@ -13,7 +21,15 @@
     "slug": "dsmg-cloud-home",
     "status": "up",
     "uptime": "99.86%",
-    "time": 1982
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2386,
+    "timeDay": 1649,
+    "timeWeek": 2386,
+    "timeMonth": 2386,
+    "timeYear": 2386
   },
   {
     "name": "DSMG Cloud Premium Panel",
@@ -21,14 +37,30 @@
     "slug": "dsmg-cloud-premium-panel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2331
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2341,
+    "timeDay": 2439,
+    "timeWeek": 2341,
+    "timeMonth": 2341,
+    "timeYear": 2341
   },
   {
     "name": "DSMG Cloud Free Panel",
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
     "status": "up",
-    "uptime": "98.61%",
-    "time": 758
+    "uptime": "98.63%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
+    "time": 1039,
+    "timeDay": 772,
+    "timeWeek": 1039,
+    "timeMonth": 1039,
+    "timeYear": 1039
   }
 ]
