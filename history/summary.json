@@ -51,16 +51,16 @@
     "name": "DSMG Cloud Free Panel",
     "url": "https://member.dsmg.my.id",
     "slug": "dsmg-cloud-free-panel",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
-    "time": 948,
-    "timeDay": 721,
-    "timeWeek": 948,
-    "timeMonth": 948,
-    "timeYear": 948
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.06%",
+    "time": 960,
+    "timeDay": 786,
+    "timeWeek": 960,
+    "timeMonth": 960,
+    "timeYear": 960
   }
 ]
