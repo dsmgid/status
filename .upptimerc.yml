@@ -10,10 +10,6 @@ sites:
     url: https://dsmg.cloud
   - name: DSMG Cloud Premium Panel
     url: https://member.dsmg.cloud
-  - name: DSMG Cloud Free Panel
-    url: $FPANELURL
-    headers:
-    - "Authorization: $FPANELHEADER"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
