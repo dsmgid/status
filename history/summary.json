@@ -37,12 +37,12 @@
     "slug": "dsmg-cloud-home",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.58%",
     "time": 2443,
-    "timeDay": 3186,
+    "timeDay": 3658,
     "timeWeek": 3035,
     "timeMonth": 2536,
     "timeYear": 2443,
@@ -66,9 +66,9 @@
     "url": "https://member.dsmg.cloud",
     "icon": "https://favicons.githubusercontent.com/member.dsmg.cloud",
     "slug": "dsmg-cloud-premium-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +77,8 @@
     "timeWeek": 2526,
     "timeMonth": 2487,
     "timeYear": 2405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   }
 ]
