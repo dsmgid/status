@@ -10,11 +10,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.62%",
-    "time": 1880,
-    "timeDay": 1584,
-    "timeWeek": 1507,
-    "timeMonth": 1509,
-    "timeYear": 1880,
+    "time": 1878,
+    "timeDay": 1571,
+    "timeWeek": 1519,
+    "timeMonth": 1500,
+    "timeYear": 1878,
     "dailyMinutesDown": {
       "2021-07-10": 5,
       "2021-07-01": 23,
@@ -45,16 +45,16 @@
     "url": "https://dsmg.cloud",
     "icon": "https://favicons.githubusercontent.com/dsmg.cloud",
     "slug": "dsmg-cloud-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "96.65%",
+    "uptimeDay": "96.64%",
     "uptimeWeek": "93.92%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.33%",
     "time": 2745,
-    "timeDay": 2261,
-    "timeWeek": 2787,
-    "timeMonth": 3167,
+    "timeDay": 2046,
+    "timeWeek": 2774,
+    "timeMonth": 3174,
     "timeYear": 2745,
     "dailyMinutesDown": {
       "2021-07-10": 49,
@@ -87,8 +87,7 @@
       "2021-01-05": 37,
       "2021-01-02": 50,
       "2020-12-10": 8,
-      "2020-12-08": 22,
-      "2020-12-03": 23
+      "2020-12-08": 22
     }
   },
   {
@@ -103,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2401,
-    "timeDay": 2384,
-    "timeWeek": 2649,
-    "timeMonth": 2383,
+    "timeDay": 2550,
+    "timeWeek": 2715,
+    "timeMonth": 2382,
     "timeYear": 2401,
     "dailyMinutesDown": {
       "2021-02-06": 4
