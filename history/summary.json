@@ -46,18 +46,19 @@
     "url": "https://dsmg.cloud",
     "icon": "https://favicons.githubusercontent.com/dsmg.cloud",
     "slug": "dsmg-cloud-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.68%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "96.46%",
     "uptimeYear": "99.35%",
     "time": 2689,
-    "timeDay": 2039,
+    "timeDay": 2235,
     "timeWeek": 2008,
     "timeMonth": 2876,
     "timeYear": 2689,
     "dailyMinutesDown": {
+      "2021-07-25": 0,
       "2021-07-24": 6,
       "2021-07-23": 18,
       "2021-07-21": 52,
@@ -83,7 +84,7 @@
       "2021-03-11": 7,
       "2021-02-21": 16,
       "2021-02-20": 147,
-      "2021-02-19": 73
+      "2021-02-19": 65
     }
   },
   {
