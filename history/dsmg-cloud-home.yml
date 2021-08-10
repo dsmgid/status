@@ -1,7 +1,7 @@
 url: https://dsmg.cloud
-status: up
-code: 200
-responseTime: 2000
-lastUpdated: 2021-08-09T23:02:24.865Z
+status: down
+code: 503
+responseTime: 758
+lastUpdated: 2021-08-10T05:37:34.802Z
 startTime: Fri Nov 27 2020 14:05:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
